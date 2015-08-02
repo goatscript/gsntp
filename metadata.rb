@@ -1,0 +1,7 @@
+name 'gsntp'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures gsntp'
+long_description 'Installs/Configures gsntp'
+version '0.1.0'
